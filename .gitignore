@@ -3,5 +3,4 @@ node_modules
 dist/
 migration_lock.toml
 coverage
-/prisma/migrations
 prisma/dev.db
