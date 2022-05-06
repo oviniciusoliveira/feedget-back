@@ -1,4 +1,7 @@
 node_modules
 .env
-dist
+dist/
 migration_lock.toml
+coverage
+/prisma/migrations
+prisma/dev.db
