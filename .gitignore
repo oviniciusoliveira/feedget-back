@@ -1,6 +1,5 @@
 node_modules
 .env
 dist/
-migration_lock.toml
 coverage
 prisma/dev.db
